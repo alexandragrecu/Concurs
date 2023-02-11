@@ -1,0 +1,19 @@
+#container input {
+    display: block;
+}
+
+#container button {
+    display: block;
+}
+
+#container input[type="checkbox"] {
+    display: inline;
+    position: relative;
+}
+
+.timer {
+    position: fixed;
+    font-size: 2em;
+    top: 0;
+    right: 0;
+}
